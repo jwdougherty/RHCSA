@@ -8,6 +8,7 @@ Study points for the exam
 
 <details>
     <summary>01. Access a shell prompt and issue commands with correct syntax</summary>
+    ## Header
     1. list
     2. Notes             
     3. terminal app
