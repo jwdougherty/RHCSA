@@ -8,8 +8,8 @@ Study points for the exam
 
 <details>
     <summary>01. Access a shell prompt and issue commands with correct syntax</summary>
-    - terminal app
-    - tty through ctl+alt+f1-f6
+                 - terminal app
+                 - tty through ctl+alt+f1-f6
 </details>    
 <details>
     <summary>02. Use input-output redirection (>, >>, |, 2>, etc.)</summary>
