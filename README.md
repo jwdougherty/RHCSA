@@ -57,6 +57,7 @@ Study points for the exam
 <details>
     <summary>15. Processing output of shell commands within a script</summary>
 </details>
+
 ### Operate running systems
 
 <details>
