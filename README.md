@@ -9,7 +9,9 @@ Study points for the exam
 01. Access a shell prompt and issue commands with correct syntax
     - terminal app
     - tty through ctl+alt+f1-f6
-02. Use input-output redirection (>, >>, |, 2>, etc.)
+<details>
+    <summary>02. Use input-output redirection (>, >>, |, 2>, etc.)</summary>
+</details>
 03. Use grep and regular expressions to analyze text
 04. Access remote systems using SSH
 05. Log in and switch users in multiuser targets
