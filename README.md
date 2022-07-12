@@ -26,6 +26,15 @@ Study points for the exam
 </details>
 <details>
     <summary>06. Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2</summary>
+    
+    - RHEL supports seven types of files: 
+      -regular, 
+      -directory, 
+      -block special device, 
+      -character special device, 
+      -symbolic link,
+      -named pipe, and 
+      -socket.
 </details>
 <details>
     <summary>07. Create and edit text files</summary>
