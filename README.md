@@ -7,6 +7,8 @@ Study points for the exam
 ### Understand and use essential tools
 
 01. Access a shell prompt and issue commands with correct syntax
+        a) terminal app
+        b)tty through ctl+alt+f1-f6
 02. Use input-output redirection (>, >>, |, 2>, etc.)
 03. Use grep and regular expressions to analyze text
 04. Access remote systems using SSH
