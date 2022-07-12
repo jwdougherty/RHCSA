@@ -59,16 +59,40 @@ Study points for the exam
 </details>
 ### Operate running systems
 
-16. Boot, reboot, and shut down a system normally
-17. Boot systems into different targets manually
-18. Interrupt the boot process in order to gain access to a system
-19. Identify CPU/memory intensive processes and kill processes
-20. Adjust process scheduling
-21. Manage tuning profiles
-22. Locate and interpret system log files and journals
-23. Preserve system journals
-24. Start, stop, and check the status of network services
-25. Securely transfer files between systems
+<details>
+    <summary>16. Boot, reboot, and shut down a system normally</summary>
+</details>    
+<details>
+    <summary>17. Boot systems into different targets manually</summary>
+</details>
+<details>
+    <summary>18. Interrupt the boot process in order to gain access to a system</summary>
+    
+</details>
+<details>
+    <summary>19. Identify CPU/memory intensive processes and kill processes</summary>
+</details>
+<details>
+    <summary>20. Adjust process scheduling</summary>
+    
+</details>
+<details>
+    <summary>21. Manage tuning profiles</summary>
+    
+</details>
+<details>
+    <summary>22. Locate and interpret system log files and journals</summary>
+    
+</details>
+<details>
+    <summary>23. Preserve system journals</summary>
+</details>    
+<details>
+    <summary>24. Start, stop, and check the status of network services</summary>
+</details>
+<details>
+    <summary>25. Securely transfer files between systems</summary>
+</details>    
 
 ### Configure local storage
 
