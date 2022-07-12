@@ -25,7 +25,7 @@ Study points for the exam
 14. Process script inputs ($1, $2, etc.)
 15. Processing output of shell commands within a script
 
-# Operate running systems
+### Operate running systems
 
 16. Boot, reboot, and shut down a system normally
 17. Boot systems into different targets manually
@@ -38,7 +38,7 @@ Study points for the exam
 24. Start, stop, and check the status of network services
 25. Securely transfer files between systems
 
-# Configure local storage
+### Configure local storage
 
 26. List, create, delete partitions on MBR and GPT disks
 27. Create and remove physical volumes
@@ -47,7 +47,7 @@ Study points for the exam
 30. Configure systems to mount file systems at boot by universally unique ID (UUID) or label
 31. Add new partitions and logical volumes, and swap to a system non-destructively
 
-# Create and configure file systems
+### Create and configure file systems
 
 32. Create, mount, unmount, and use vfat, ext4, and xfs file systems
 33. Mount and unmount network file systems using NFS
@@ -56,7 +56,7 @@ Study points for the exam
 36. Create and configure set-GID directories for collaboration
 37. Diagnose and correct file permission problems
 
-# Deploy, configure, and maintain systems
+### Deploy, configure, and maintain systems
 
 38. Schedule tasks using at and cron
 39. Start and stop services and configure services to start automatically at boot
@@ -65,21 +65,21 @@ Study points for the exam
 42. Install and update software packages from Red Hat Network, a remote repository, or from the local file system
 43. Modify the system bootloader
 
-# Manage basic networking
+### Manage basic networking
 
 44. Configure IPv4 and IPv6 addresses
 45. Configure hostname resolution
 46. Configure network services to start automatically at boot
 47. Restrict network access using firewall-cmd/firewall
 
-# Manage users and groups
+### Manage users and groups
 
 48. Create, delete, and modify local user accounts
 49. Change passwords and adjust password aging for local user accounts
 50. Create, delete, and modify local groups and group memberships
 51. Configure superuser access
 
-# Manage security
+### Manage security
 
 52. Configure firewall settings using firewall-cmd/firewalld
 53. Manage default file permissions
@@ -91,7 +91,7 @@ Study points for the exam
 59. Use boolean settings to modify system SELinux settings
 60. Diagnose and address routine SELinux policy violations
 
-# Manage containers
+### Manage containers
 
 61. Find and retrieve container images from a remote registry
 62. Inspect container images
