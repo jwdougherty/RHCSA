@@ -45,11 +45,18 @@ Study points for the exam
 
 ### Create simple shell scripts
 
-12. Conditionally execute code (use of: if, test, [], etc.)
-13. Use Looping constructs (for, etc.) to process file, command line input
-14. Process script inputs ($1, $2, etc.)
-15. Processing output of shell commands within a script
-
+<details>
+    <summary>12. Conditionally execute code (use of: if, test, [], etc.)</summary>
+</details>
+<details>
+    <summary>13. Use Looping constructs (for, etc.) to process file, command line input</summary>
+</details>
+<details>
+    <summary>14. Process script inputs ($1, $2, etc.)</summary>
+</details>
+<details>
+    <summary>15. Processing output of shell commands within a script</summary>
+</details>
 ### Operate running systems
 
 16. Boot, reboot, and shut down a system normally
