@@ -6,9 +6,9 @@ Study points for the exam
     RHCSA exam candidates should be able to accomplish the tasks below without assistance. These have been grouped into several categories.
 ### Understand and use essential tools
 
--[ ] 01. Access a shell prompt and issue commands with correct syntax
-         - terminal app
-         - tty through ctl+alt+f1-f6
+01. Access a shell prompt and issue commands with correct syntax
+    - terminal app
+    - tty through ctl+alt+f1-f6
 02. Use input-output redirection (>, >>, |, 2>, etc.)
 03. Use grep and regular expressions to analyze text
 04. Access remote systems using SSH
