@@ -1,14 +1,14 @@
-## RHCSA
-#Notes on RHCSA objectives
+# RHCSA
+##Notes on RHCSA objectives
 
 Study points for the exam
 
     RHCSA exam candidates should be able to accomplish the tasks below without assistance. These have been grouped into several categories.
-# Understand and use essential tools
+### Understand and use essential tools
 
-*01        Access a shell prompt and issue commands with correct syntax
-02        Use input-output redirection (>, >>, |, 2>, etc.)
-03        Use grep and regular expressions to analyze text
+01.        Access a shell prompt and issue commands with correct syntax
+02.        Use input-output redirection (>, >>, |, 2>, etc.)
+03.        Use grep and regular expressions to analyze text
 04        Access remote systems using SSH
 05        Log in and switch users in multiuser targets
 06        Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
@@ -18,7 +18,7 @@ Study points for the exam
 10        List, set, and change standard ugo/rwx permissions
 11        Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 
-# Create simple shell scripts
+### Create simple shell scripts
 
 12        Conditionally execute code (use of: if, test, [], etc.)
 13        Use Looping constructs (for, etc.) to process file, command line input
