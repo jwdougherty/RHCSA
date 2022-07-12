@@ -7,7 +7,7 @@ Study points for the exam
 ### Understand and use essential tools
 
 <details>
-    <line>01. Access a shell prompt and issue commands with correct syntax</line>
+    <summary>01. Access a shell prompt and issue commands with correct syntax</summary>
     - terminal app
     - tty through ctl+alt+f1-f6
 </details>    
