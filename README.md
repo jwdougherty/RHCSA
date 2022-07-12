@@ -14,15 +14,33 @@ Study points for the exam
 <details>
     <summary>02. Use input-output redirection (>, >>, |, 2>, etc.)</summary>
 </details>
-03. Use grep and regular expressions to analyze text
-04. Access remote systems using SSH
-05. Log in and switch users in multiuser targets
-06. Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
-07. Create and edit text files
-08. Create, delete, copy, and move files and directories
-09. Create hard and soft links
-10. List, set, and change standard ugo/rwx permissions
-11. Locate, read, and use system documentation including man, info, and files in /usr/share/doc
+<details>
+    <summary>03. Use grep and regular expressions to analyze text</summary>
+</details>
+<details>
+    <summary>04. Access remote systems using SSH</summary>
+</details>
+<details>
+    <summary>05. Log in and switch users in multiuser targets</summary>
+</details>
+<details>
+    <summary>06. Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2</summary>
+</details>
+<details>
+    <summary>07. Create and edit text files</summary>
+</details>
+<details>
+    <summary>08. Create, delete, copy, and move files and directories</summary>
+</details>
+<details>
+    <summary>09. Create hard and soft links</summary>
+</details>
+<details>
+    <summary>10. List, set, and change standard ugo/rwx permissions</summary>
+</details>
+<details>
+    <summary>11. Locate, read, and use system documentation including man, info, and files in /usr/share/doc</summary>
+</details>    
 
 ### Create simple shell scripts
 
