@@ -37,6 +37,7 @@ Study points for the exam
       -symbolic link,
       -named pipe, and 
       -socket.
+    
 </details>
 <details>
     <summary>07. Create and edit text files</summary>
