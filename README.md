@@ -41,15 +41,47 @@ Study points for the exam
 </details>
 <details>
     <summary>07. Create and edit text files</summary>
+    
+    - master vim
+    - File and Directory Operations
+     - Create, 
+      - _touch_
+      - _cat_ >
+      - _mkdir_
+    
 </details>
 <details>
     <summary>08. Create, delete, copy, and move files and directories</summary>
+    
+    Display contents
+      - _ls_
+      - _cat_
+      -_tac_
+      - _head_
+      - _tail_
+      - _wc_
+     - Copy Files and Directories
+      - _cp_ -i (warn before overwriting)
+     - Moving and Renaming
+      - _mv_
+     - Revove files
+      - _rm_
+     - Remove Directories
+      - _rmdir_
 </details>
 <details>
     <summary>09. Create hard and soft links</summary>
+    
+    - File Linking
+      - Hard Link, using the same inode #
+       - _ln_
+      - Soft Link, aka symlink, seperate files
 </details>
 <details>
     <summary>10. List, set, and change standard ugo/rwx permissions</summary>
+    
+    - _ls -l_
+    - _cmod_ 
 </details>
 <details>
     <summary>11. Locate, read, and use system documentation including man, info, and files in /usr/share/doc</summary>
@@ -109,18 +141,49 @@ Study points for the exam
 
 ### Configure local storage
 
-26. List, create, delete partitions on MBR and GPT disks
-27. Create and remove physical volumes
-28. Assign physical volumes to volume groups
-29. Create and delete logical volumes
-30. Configure systems to mount file systems at boot by universally unique ID (UUID) or label
-31. Add new partitions and logical volumes, and swap to a system non-destructively
+<details>
+    <summary>26. List, create, delete partitions on MBR and GPT disks</summary>
+    
+    
+</details>
+<details>
+    <summary>27. Create and remove physical volumes</summary>
+
+
+</details>
+<details>
+    <summary>28. Assign physical volumes to volume groups</summary>
+    
+    
+<details>
+    <summary>29. Create and delete logical volumes</summary>
+    
+</details>   
+<details>
+    <summary>30. Configure systems to mount file systems at boot by universally unique ID (UUID) or label</summary>
+    
+    
+</details>
+<details>
+    <summary>31. Add new partitions and logical volumes, and swap to a system non-destructively</summary>
+    
+</details>    
 
 ### Create and configure file systems
 
-32. Create, mount, unmount, and use vfat, ext4, and xfs file systems
-33. Mount and unmount network file systems using NFS
-34. Configure autofs
+<details>
+    <summary>32. Create, mount, unmount, and use vfat, ext4, and xfs file systems</summary>
+
+</details>    
+<details>
+    <summary>33. Mount and unmount network file systems using NFS</summary>
+    
+    
+</details>
+<details>
+    <summary>34. Configure autofs</summary>
+    
+</details>    
 35. Extend existing logical volumes
 36. Create and configure set-GID directories for collaboration
 37. Diagnose and correct file permission problems
