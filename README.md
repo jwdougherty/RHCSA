@@ -154,7 +154,7 @@ Study points for the exam
 <details>
     <summary>28. Assign physical volumes to volume groups</summary>
     
-    
+</details>    
 <details>
     <summary>29. Create and delete logical volumes</summary>
     
