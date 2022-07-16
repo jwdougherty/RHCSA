@@ -82,6 +82,7 @@ Study points for the exam
     
     - _ls -l_
     - _cmod_ 
+    - _umask_
 </details>
 <details>
     <summary>11. Locate, read, and use system documentation including man, info, and files in /usr/share/doc</summary>
@@ -166,6 +167,7 @@ Study points for the exam
 </details>
 <details>
     <summary>31. Add new partitions and logical volumes, and swap to a system non-destructively</summary>
+    
     
 </details>    
 
