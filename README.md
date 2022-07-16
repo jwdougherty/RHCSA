@@ -184,18 +184,45 @@ Study points for the exam
     <summary>34. Configure autofs</summary>
     
 </details>    
-35. Extend existing logical volumes
-36. Create and configure set-GID directories for collaboration
-37. Diagnose and correct file permission problems
+<details>
+    <summary>35. Extend existing logical volumes</summary>
+    
+</details>
+<details>
+    <summary>36. Create and configure set-GID directories for collaboration</summary>
+    
+</details>
+<details>
+    <summary>37. Diagnose and correct file permission problems</summary>
+    
+</details>
 
 ### Deploy, configure, and maintain systems
 
-38. Schedule tasks using at and cron
-39. Start and stop services and configure services to start automatically at boot
-40. Configure systems to boot into a specific target automatically
-41. Configure time service clients
-42. Install and update software packages from Red Hat Network, a remote repository, or from the local file system
-43. Modify the system bootloader
+<details>
+    <summary>38. Schedule tasks using at and cron</summary>
+    
+</details>
+<details>
+    <summary>39. Start and stop services and configure services to start automatically at boot</summary>
+    
+</details>
+<details>
+    <summary>40. Configure systems to boot into a specific target automatically</summary>
+    
+</details>
+<details>
+    <summary>41. Configure time service clients</summary>
+    
+</details>
+<details>
+    <summary>42. Install and update software packages from Red Hat Network, a remote repository, or from the local file system</summary>
+    
+</details>
+<details>
+    <summary>43. Modify the system bootloader</summary>
+    
+</details>
 
 ### Manage basic networking
 
